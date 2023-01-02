@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Tech, Rugby and Gaming
 - 🌱 I’m currently learning ... JavaScript, HTML, CSS and more
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 📫 How to reach me ... through LinkedIn at www.linkedin.com/in/skeogh
 
 <!---
 Koggy9/Koggy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
