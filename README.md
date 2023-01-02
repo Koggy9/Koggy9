@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Koggy9
+- 👋 Hi, I’m Sean Keogh
 - 👀 I’m interested in ... Tech, Rugby and Gaming
-- 🌱 I’m currently learning ... How to get started in coding
+- 🌱 I’m currently learning ... JavaScript, HTML, CSS and more
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
